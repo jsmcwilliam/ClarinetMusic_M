@@ -4,4 +4,9 @@
 *.mid
 *.log
 *~
+<<<<<<< HEAD
 Work Area/
+=======
+.*
+Work_Area/
+>>>>>>> c278abd89f6cda5a39719c226d2e68a5b24b6b6e
